@@ -1,0 +1,15 @@
+To run this demo:
+
+1. Download everything in the repo to your computer
+2. Open the Ex2-TileToastNotifications\End folder 
+3. Open the End.sln file
+4. Recompile
+5. Press F5 to run
+6. When the phone app launches, pin the app icon to the start page
+7. When the WPF client launches, run the Phone app and make sure
+   that a connection is made.
+8. Change the settings on the WPF application and see results in WP
+9. For all but the RAW notification, the WP app will have to be closed
+
+Cheers!
+Chris
